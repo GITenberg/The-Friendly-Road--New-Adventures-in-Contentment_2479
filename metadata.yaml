@@ -1,0 +1,29 @@
+_repo: The-Friendly-Road--New-Adventures-in-Contentment_2479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grayson, David
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '929'
+    url: http://www.gutenberg.org/2009/agents/929
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/b#a37309
+    - http://en.wikipedia.org/wiki/Ray_Stannard_Baker
+description: ''
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- United States'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcc 'PS'
+- !lcsh 'Grayson, David, 1870-1946 -- Travel'
+- GITenberg
+title: 'The Friendly Road: New Adventures in Contentment'
+url: http://www.gutenberg.org/ebooks/2479
